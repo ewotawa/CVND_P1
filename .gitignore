@@ -1,2 +1,3 @@
 saved_models/keypoints_model_1_15_epochs.pt
 saved_models/keypoints_model_2_15+20_epochs.pt
+2. Define the Network Architecture-Test GPU-checkpoint.ipynb
